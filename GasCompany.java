@@ -1,0 +1,4 @@
+enum GasCompany
+{
+	BNH,BHARAT,FJM,PRIMEVALV,SURYA,INDOGAS;
+}
